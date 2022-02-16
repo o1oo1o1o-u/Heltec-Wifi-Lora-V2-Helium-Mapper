@@ -85,6 +85,6 @@ function Bytes2Float32(bytes) {
 
 Et maintenant vous n'avez plus qu'a envoyer le fichier via arduino sur la carte et l'alimenter pour tester.
 
-::: danger Attention
+
 Je débute dans l'arduino et mon code n'est surement pas optimisé, à vous de découvrir et vous amuser a modifier tous ce que je viens de vous partager.
-:::
+
