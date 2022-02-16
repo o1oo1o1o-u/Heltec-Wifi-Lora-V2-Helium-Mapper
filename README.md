@@ -1,6 +1,6 @@
 # Heltec-Wifi-Lora-V2-Helium-Mapper
 
-##Exemple de mapper Helium avec un Heltec Wifi Lora V2 et un module GPS Neo 6M
+## Exemple de mapper Helium avec un Heltec Wifi Lora V2 et un module GPS Neo 6M
 
 ### Cablage du Heltec et du GPS
 
