@@ -78,7 +78,7 @@ function Bytes2Float32(bytes) {
   };
   }
   ```
-  ## Ajout du le flow de la console helium
+  ## Ajout du flow de la console helium
   
   ![image](https://user-images.githubusercontent.com/85999010/154266973-5ed3b287-c8e2-4100-8c9a-7d90387eb367.png)
 
